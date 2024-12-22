@@ -4,7 +4,7 @@ This is my first Repository
 Author - Rohit Patel
 
 #Student
-Rohit patel
+Rohit kumar
 
 #course
 Delta2.0
